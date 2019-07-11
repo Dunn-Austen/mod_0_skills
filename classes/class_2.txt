@@ -1,0 +1,10 @@
+Textbook
+price (float)
+physical_book (boolean)
+condition (string)
+current_owner (string)
+
+apply_discount (modifies price)
+download_online_version (modifies the boolean value of physical_book, also likely the price attribute)
+damage_book (modifies condition attribute)
+change_owner (modifies current_owner)

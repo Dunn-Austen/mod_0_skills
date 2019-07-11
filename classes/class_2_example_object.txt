@@ -1,0 +1,11 @@
+Textbook: earth science book
+
+price (200.21)
+physical_book (true)
+condition ("new")
+current_owner ("student one")
+
+apply_discount (reduces the float value for price)
+download_online_version (changes the boolean value for physical_book to false)
+damage_book (changes the condition attribute to "poor")
+change_owner (changes the string value for current_owner)
