@@ -1,0 +1,11 @@
+Object: Student one
+
+attendance (0.82)
+grade_level ("junior")
+enrollment_status ("enrolled":)
+good_financial_standing (true)
+
+skip_class (decreases float value for attendance attribute)
+pass_classes (changes the grade_level attribute from "junior" to "senior")
+withdraw (changes enrollment_status attribute from "enrolled" to "not enrolled")
+miss_payment (changes good_financial_standing attribute from true to false)
