@@ -1,0 +1,10 @@
+Student
+attendance (float)
+grade_level (string)
+enrollment_status (string)
+good_financial_standing (boolean)
+
+skip_class (modifies the decimal value for the attendance attribute)
+pass_classes (modifies grade_level attribute, for example, changing the value from freshman to sophomore)
+withdraw (modifies enrollment_status attribute, from enrolled to not)
+miss_payment (modifies the good_financial_attribute, true to false)
